@@ -1,0 +1,23 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Solana-x402/Examples#readme",
+  "bugs": {
+    "url": "https://github.com/Solana-x402/Examples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solana-x402/Examples.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "test-buy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "x402-axios": "^0.7.0"
+  }
+}
